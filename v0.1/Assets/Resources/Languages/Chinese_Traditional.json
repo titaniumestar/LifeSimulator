@@ -1,0 +1,40 @@
+{
+  "Labels": [
+    {
+      "Key": "Cell Property",
+      "Word": "細胞屬性"
+    },
+    {
+      "Key": "Movement Speed",
+      "Word": "移動速度"
+    },
+    {
+      "Key": "Rotation Speed",
+      "Word": "旋轉速度"
+    },
+    {
+      "Key": "Wander Speed",
+      "Word": "遊蕩速度"
+    },
+    {
+      "Key": "Spawner Property",
+      "Word": "產生器屬性"
+    },
+    {
+      "Key": "Cell Spawn Speed",
+      "Word": "細胞產生速度"
+    },
+    {
+      "Key": "Cell Spawn Quantity",
+      "Word": "細胞產生數量"
+    },
+    {
+      "Key": "Food Spawn Speed",
+      "Word": "食物產生速度"
+    },
+    {
+      "Key": "Food Spawn Quantity",
+      "Word": "食物產生數量"
+    }
+  ]
+}
