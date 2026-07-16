@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkFolder\\Unity\\LifeSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\workfolder\\unity\\lifesimulator\\assets\\c# script\\devour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\c# script\\devour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\FindingFood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\C# Script\\FindingFood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\workfolder\\unity\\lifesimulator\\assets\\c# script\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\c# script\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\workfolder\\unity\\lifesimulator\\assets\\c# script\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\c# script\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\workfolder\\unity\\lifesimulator\\assets\\c# script\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\c# script\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\workfolder\\unity\\lifesimulator\\assets\\c# script\\objectdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\c# script\\objectdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Devour.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Devour.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\Devour.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Devour.cs",
+              "RelativeToolTip": "Assets\\C# Script\\Devour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T08:14:35.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Cell.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\Cell.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Cell.cs",
+              "RelativeToolTip": "Assets\\C# Script\\Cell.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T08:14:11.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjectDetector.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\ObjectDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\ObjectDetector.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\ObjectDetector.cs",
+              "RelativeToolTip": "Assets\\C# Script\\ObjectDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T06:02:36.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindingFood.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\FindingFood.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\FindingFood.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\FindingFood.cs",
+              "RelativeToolTip": "Assets\\C# Script\\FindingFood.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T04:53:16.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Moving.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Moving.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\Moving.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Moving.cs",
+              "RelativeToolTip": "Assets\\C# Script\\Moving.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T05:04:10.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\Timer.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Timer.cs",
+              "RelativeToolTip": "Assets\\C# Script\\Timer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T05:07:44.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
