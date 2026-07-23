@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkFolder\\Unity\\LifeSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\workfolder\\unity\\lifesimulator\\assets\\c# script\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\c# script\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\Resources\\Languages\\Chinese_Simplified.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Resources\\Languages\\Chinese_Simplified.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\Resources\\Languages\\Chinese_Traditional.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Resources\\Languages\\Chinese_Traditional.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\Resources\\Languages\\English.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Resources\\Languages\\English.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\workfolder\\unity\\lifesimulator\\assets\\c# script\\devour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\c# script\\devour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\workfolder\\unity\\lifesimulator\\assets\\c# script\\findingfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\c# script\\findingfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\workfolder\\unity\\lifesimulator\\assets\\c# script\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\c# script\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\workfolder\\unity\\lifesimulator\\assets\\c# script\\foodclusterspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\c# script\\foodclusterspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\workfolder\\unity\\lifesimulator\\assets\\c# script\\functionbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\c# script\\functionbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\workfolder\\unity\\lifesimulator\\assets\\c# script\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\c# script\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\workfolder\\unity\\lifesimulator\\assets\\c# script\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\c# script\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\workfolder\\unity\\lifesimulator\\assets\\c# script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\c# script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "English.json",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\Resources\\Languages\\English.json",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Languages\\English.json",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\Resources\\Languages\\English.json",
+              "RelativeToolTip": "Assets\\Resources\\Languages\\English.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-23T12:21:43.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chinese_Traditional.json",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\Resources\\Languages\\Chinese_Traditional.json",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Languages\\Chinese_Traditional.json",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\Resources\\Languages\\Chinese_Traditional.json",
+              "RelativeToolTip": "Assets\\Resources\\Languages\\Chinese_Traditional.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-23T12:21:43.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chinese_Simplified.json",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\Resources\\Languages\\Chinese_Simplified.json",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Languages\\Chinese_Simplified.json",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\Resources\\Languages\\Chinese_Simplified.json",
+              "RelativeToolTip": "Assets\\Resources\\Languages\\Chinese_Simplified.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-23T12:21:42.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Moving.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Moving.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\Moving.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Moving.cs",
+              "RelativeToolTip": "Assets\\C# Script\\Moving.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T12:15:22.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\GameManager.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\C# Script\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T12:12:24.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Food.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\Food.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Food.cs",
+              "RelativeToolTip": "Assets\\C# Script\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T09:31:54.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodClusterSpawner.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\FoodClusterSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\FoodClusterSpawner.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\FoodClusterSpawner.cs",
+              "RelativeToolTip": "Assets\\C# Script\\FoodClusterSpawner.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwEYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T04:29:45.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FunctionBox.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\FunctionBox.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\FunctionBox.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\FunctionBox.cs",
+              "RelativeToolTip": "Assets\\C# Script\\FunctionBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T02:25:00.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Cell.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\Cell.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Cell.cs",
+              "RelativeToolTip": "Assets\\C# Script\\Cell.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvxgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T00:34:53.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\UIController.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\UIController.cs",
+              "RelativeToolTip": "Assets\\C# Script\\UIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T09:43:54.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Devour.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Devour.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\Devour.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\Devour.cs",
+              "RelativeToolTip": "Assets\\C# Script\\Devour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T08:14:35.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FindingFood.cs",
+              "DocumentMoniker": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\FindingFood.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Script\\FindingFood.cs",
+              "ToolTip": "D:\\WorkFolder\\Unity\\LifeSimulator\\Assets\\C# Script\\FindingFood.cs",
+              "RelativeToolTip": "Assets\\C# Script\\FindingFood.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDgAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T04:53:16.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

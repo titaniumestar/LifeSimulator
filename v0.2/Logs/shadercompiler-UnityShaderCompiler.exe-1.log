@@ -1,0 +1,302 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/6000.5.3f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/6000.5.3f1/Editor/Data/PlaybackEngines', jobs: n
+Cmd: initializeCompiler
+
+Cmd: compileComputeKernel
+  insize=4508 file=Packages/com.unity.render-pipelines.core/Editor/Lighting/ProbeVolume/VirtualOffset/TraceVirtualOffset.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=4508 file=Packages/com.unity.render-pipelines.core/Editor/Lighting/ProbeVolume/VirtualOffset/TraceVirtualOffset.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=12734
+
+Cmd: compileComputeKernel
+  insize=3046 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/LightmapAOIntegration.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=3046 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/LightmapAOIntegration.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=26253
+
+Cmd: compileComputeKernel
+  insize=5917 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/LightmapIndirectIntegration.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=5917 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/LightmapIndirectIntegration.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=79641
+
+Cmd: compileComputeKernel
+  insize=1122 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/LightmapNormalIntegration.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=1122 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/LightmapNormalIntegration.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=3915
+
+Cmd: compileComputeKernel
+  insize=4027 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/ProbeIntegrationDirect.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=4027 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/ProbeIntegrationDirect.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=44183
+
+Cmd: compileComputeKernel
+  insize=1351 file=Packages/com.unity.render-pipelines.core/Tests/Editor/UnifiedRayTracing/TraceRays.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=1351 file=Packages/com.unity.render-pipelines.core/Tests/Editor/UnifiedRayTracing/TraceRays.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=10791
+
+Cmd: compileComputeKernel
+  insize=7226 file=Packages/com.unity.render-pipelines.core/Editor/Lighting/ProbeVolume/DynamicGI/DynamicGISkyOcclusion.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=7226 file=Packages/com.unity.render-pipelines.core/Editor/Lighting/ProbeVolume/DynamicGI/DynamicGISkyOcclusion.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=21640
+
+Cmd: compileComputeKernel
+  insize=7226 file=Packages/com.unity.render-pipelines.core/Editor/Lighting/ProbeVolume/DynamicGI/DynamicGISkyOcclusion.urtshader kernel=EncodeShadingDirection ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=1100
+
+Cmd: compileComputeKernel
+  insize=2561 file=Packages/com.unity.render-pipelines.core/Tests/Runtime/PathTracing/PathIteratorTest.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=2561 file=Packages/com.unity.render-pipelines.core/Tests/Runtime/PathTracing/PathIteratorTest.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=70722
+
+Cmd: compileComputeKernel
+  insize=2913 file=Packages/com.unity.render-pipelines.core/Editor/Lighting/ProbeVolume/RenderingLayerMask/TraceRenderingLayerMask.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=2913 file=Packages/com.unity.render-pipelines.core/Editor/Lighting/ProbeVolume/RenderingLayerMask/TraceRenderingLayerMask.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=13304
+
+Cmd: compileComputeKernel
+  insize=525 file=Packages/com.unity.render-pipelines.core/Runtime/Lighting/SurfaceCache/Estimation.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=525 file=Packages/com.unity.render-pipelines.core/Runtime/Lighting/SurfaceCache/Estimation.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=43978
+
+Cmd: compileComputeKernel
+  insize=4650 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/LightmapGBufferIntegration.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=4650 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/LightmapGBufferIntegration.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=23059
+
+Cmd: compileComputeKernel
+  insize=5284 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/ProbeIntegrationIndirect.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=5284 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/ProbeIntegrationIndirect.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=75184
+
+Cmd: compileComputeKernel
+  insize=2986 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/LightmapValidityIntegration.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=2986 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/LightmapValidityIntegration.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=26298
+
+Cmd: compileComputeKernel
+  insize=548 file=Packages/com.unity.render-pipelines.core/Runtime/Lighting/SurfaceCache/PunctualLightSampling.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=548 file=Packages/com.unity.render-pipelines.core/Runtime/Lighting/SurfaceCache/PunctualLightSampling.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=16196
+
+Cmd: compileComputeKernel
+  insize=9270 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/LightmapDirectIntegration.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=9270 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/LightmapDirectIntegration.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=70619
+
+Cmd: compileComputeKernel
+  insize=3355 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/ProbeIntegrationOcclusion.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=3355 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/ProbeIntegrationOcclusion.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=36737
+
+Cmd: compileComputeKernel
+  insize=2626 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/ProbeIntegrationValidity.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=950
+
+Cmd: compileComputeKernel
+  insize=2626 file=Packages/com.unity.render-pipelines.core/Runtime/PathTracing/Shaders/ProbeIntegrationValidity.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=19 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=13183
+
+Cmd: compileComputeKernel
+  insize=1351 file=Packages/com.unity.render-pipelines.core/Tests/Editor/UnifiedRayTracing/TraceRays.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=20 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=gles3 flags=4096 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=HLSLcc
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=2337
+
+Cmd: compileComputeKernel
+  insize=1351 file=Packages/com.unity.render-pipelines.core/Tests/Editor/UnifiedRayTracing/TraceRays.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=20 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=gles3 flags=4096 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=HLSLcc
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=28173
+
+Cmd: compileComputeKernel
+  insize=2561 file=Packages/com.unity.render-pipelines.core/Tests/Runtime/PathTracing/PathIteratorTest.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=20 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=gles3 flags=4096 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=HLSLcc
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=2337
+
+Cmd: compileComputeKernel
+  insize=2561 file=Packages/com.unity.render-pipelines.core/Tests/Runtime/PathTracing/PathIteratorTest.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=20 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=gles3 flags=4096 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=HLSLcc
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=210141
+
+Cmd: compileComputeKernel
+  insize=1829 file=Packages/com.unity.render-pipelines.core/Tests/Editor/UnifiedRayTracing/TraceRaysAndFetchAttributes.urtshader kernel=ComputeIndirectDispatchDims ppOnly=0 stripLineD=0 buildPlatform=20 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=gles3 flags=4096 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=HLSLcc
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=2337
+
+Cmd: compileComputeKernel
+  insize=1829 file=Packages/com.unity.render-pipelines.core/Tests/Editor/UnifiedRayTracing/TraceRaysAndFetchAttributes.urtshader kernel=MainRayGenShader ppOnly=0 stripLineD=0 buildPlatform=20 km=<UNITY_VERSION=60050003> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PLATFORM_SUPPORTS_DEPTH_FETCH uKW=SHADER_STAGE_COMPUTE platform=gles3 flags=4096 reqs=50241 forceDXC=0 forceFXC=0
+RunExternalCompiler: begin name=HLSLcc
+RunExternalCompiler: begin name=FXC
+RunExternalCompiler: end
+RunExternalCompiler: end
+compilerComputeKernel complete
+ ok=1 outsize=39474
+

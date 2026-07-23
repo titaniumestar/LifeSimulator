@@ -1,0 +1,36 @@
+{
+  "Labels": [
+    {
+      "Key": "Spawner Property",
+      "Word": "Spawner Property"
+    },
+    {
+      "Key": "Cell Spawn Speed",
+      "Word": "Cell Spawn Speed"
+    },
+    {
+      "Key": "Cell Spawn Quantity",
+      "Word": "Cell Spawn Quantity"
+    },
+    {
+      "Key": "Food Spawn Speed",
+      "Word": "Food Spawn Speed"
+    },
+    {
+      "Key": "Food Spawn Quantity",
+      "Word": "Food Spawn Quantity"
+    },
+    {
+      "Key": "Game Manager",
+      "Word": "Game Manager"
+    },
+    {
+      "Key": "Running Speed",
+      "Word": "Running Speed"
+    },
+    {
+      "Key": "Gene Mutation Rate",
+      "Word": "Gene Mutation Rate"
+    }
+  ]
+}

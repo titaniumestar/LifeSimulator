@@ -1,0 +1,36 @@
+{
+  "Labels": [
+    {
+      "Key": "Spawner Property",
+      "Word": "生成器属性"
+    },
+    {
+      "Key": "Cell Spawn Speed",
+      "Word": "细胞生成速度"
+    },
+    {
+      "Key": "Cell Spawn Quantity",
+      "Word": "细胞生成数量"
+    },
+    {
+      "Key": "Food Spawn Speed",
+      "Word": "食物生成速度"
+    },
+    {
+      "Key": "Food Spawn Quantity",
+      "Word": "食物生成数量"
+    },
+    {
+      "Key": "Game Manager",
+      "Word": "游戏管理器"
+    },
+    {
+      "Key": "Running Speed",
+      "Word": "运行速度"
+    },
+    {
+      "Key": "Gene Mutation Rate",
+      "Word": "基因突变率"
+    }
+  ]
+}
